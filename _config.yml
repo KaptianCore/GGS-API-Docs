@@ -7,5 +7,3 @@ include:
   - shouts.md
   - servers.md
   - discordapi.md
-
-theme: jekyll-theme-minimal
