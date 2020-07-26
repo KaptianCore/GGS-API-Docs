@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - index.md
   - shouts.md
   - servers.md
   - discordapi.md
