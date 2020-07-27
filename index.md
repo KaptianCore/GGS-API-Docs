@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="https://ggs.sx/images/favicon/apple-icon-57x57.png">
 ![GGS.SX Logo](https://ggs.sx/images/final-small.png)
 # Welcome To The GGS.SX API Docs
 ## <a href="https://kaptiancore.github.io/GGS-API-Docs/discordapi" target="_blank">Discord ID Query</a>
