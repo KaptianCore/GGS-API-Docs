@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+  - shouts.md
+  - servers.md
+  - discordapi.md
+
+theme: jekyll-theme-modernist
+site_favicon: favicon.png
