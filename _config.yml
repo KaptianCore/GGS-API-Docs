@@ -8,6 +8,7 @@ include:
   - shouts.md
   - servers.md
   - discordapi.md
+  - steamapi.md
 
 theme: jekyll-theme-modernist
 

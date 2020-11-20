@@ -1,4 +1,4 @@
-![GGS.SX Logo](https://ggs.sx/images/final-small.png)
+![GGS.SX Logo](https://ggs.sx/storage/images/svg/logo_white.svg)
 # Shouts Query
 
 Get the details of the requested verified User from the GGS API.
@@ -7,7 +7,7 @@ Get the details of the requested verified User from the GGS API.
 
 **Method** : `GET`
 
-**Auth required** : NO
+**AUTH required** : NO
 
 **Permissions required** : None
 
